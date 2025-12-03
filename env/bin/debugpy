@@ -1,0 +1,7 @@
+#!/Users/justinmasters/Documents/DA_prereq_Justin_Masters/Notebooks/Age_and_Endurance/env/bin/python
+import sys
+from debugpy.server.cli import main
+if __name__ == '__main__':
+    if sys.argv[0].endswith('.exe'):
+        sys.argv[0] = sys.argv[0][:-4]
+    sys.exit(main())
