@@ -65,6 +65,7 @@ Age bracket aggregation and visualization
 Distance-based comparisons within ultra marathon events
 A personal comparison of my own age relative to average marathon and ultra marathon participants during the selected years
 
+
 ## How to Use
 1. Clone this repository.
 2. Install the required Python packages:  
@@ -75,8 +76,9 @@ A personal comparison of my own age relative to average marathon and ultra marat
 The analysis shows that the average age of fall marathon finishers from 2016-2019 is 39 years old. There are outliers with the youngest age of a marathon finisher being 15, and the oldest age of a marathon finisher being 116.
 
 ## Data Sources
-- Results2 csv (provided in `data/`)
+- Results_marathon csv (provided in `data/`)
 - Indianapolis Monumental Marathon 2019 csv (provided in 'data/')
+- Results_um csv (provided in 'data/')
 
 ## Author
 Justin Masters aka Runningbaldman - Emerging Data Analyst
