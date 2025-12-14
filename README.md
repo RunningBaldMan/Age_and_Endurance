@@ -49,7 +49,7 @@ This aligns with anecdotal evidence of extreme longevity in ultra running, such 
 Reports of 100-year-old 50-mile finishers
 Bob Becker, who completed the 135-mile Badwater Ultra at age 80 (as of 2025)
 
-    Expectations 
+# Expectations 
 
 Based on the nature of ultra endurance events, I expect:
 The oldest finishers to appear in the ultra marathon dataset
@@ -84,7 +84,7 @@ The analysis shows that the average age of fall marathon finishers from 2016-201
 Justin Masters aka Runningbaldman - Emerging Data Analyst
 
 ## License
-MIT License# Age_and_Endurance
+MIT License
 
 ## References
 ChatGPT and other AI tools were used as supplementary learning resources for code troubleshooting, error handling, and idea development. The author retains full responsibility for all analyses, interpretations, and conclusions.
