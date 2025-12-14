@@ -13,9 +13,7 @@ The working hypothesis is that ultra marathons skew older than marathons, partic
 
 ## Datasets Used
 
-<div class="alert alert-block alert-info">
-<b>Marathon Dataset<b>
-</div>
+   Marathon Dataset
 
 Source: Kaggle – 2010–2019 Fall Marathons - https://www.kaggle.com/datasets/runningwithrock/2010-2019-fall-marathons
 
