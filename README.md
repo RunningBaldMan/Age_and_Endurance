@@ -65,6 +65,11 @@ Age bracket aggregation and visualization
 Distance-based comparisons within ultra marathon events
 A personal comparison of my own age relative to average marathon and ultra marathon participants during the selected years
 
+# Conclusion
+
+In closing, I was suprised that the marathon had the older average partipation age, and that I would have been above the average age of ultra marathoners. 
+The USA fell about where I imagened it would when comparing ages by country. 
+And finally, when comparing the total percentage of participants by age bracket for each distance I was suprised that from ages 70+ the marathon took home the gold. More research into the 90+ age bracket is need. 
 
 ## How to Use
 1. Clone this repository.
